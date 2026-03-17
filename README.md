@@ -10,6 +10,8 @@
 - 📊 Learning Data Analysis & Data Science
 - 🐍 Currently learning Python
 - 📈 Interested in Business Intelligence & AI
+- 📈 Passionate about turning data into insights
+- 💡 Love building dashboards & real-world projects
 
 ---
 
